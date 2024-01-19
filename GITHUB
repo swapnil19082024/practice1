@@ -1,0 +1,5 @@
+sudo su
+mkdir swapnil
+cd swapnil
+touch 1.txt
+pwd
